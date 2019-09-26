@@ -1,0 +1,53 @@
+ h1{
+  	height:50px;
+  	background-color: pink;
+  }
+
+
+body{
+  background-color:pink;
+padding-top: 50px;
+  }
+
+ p{
+
+font-size:16px;
+color:black;
+ }
+
+ a:link {
+  text-decoration: none;
+}
+
+a:visited {color:blue;
+			font-size: 22px;
+}
+
+a:hover {
+	color:yellow;
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+
+
+
+.sidenav {
+  height: 100%;
+  width: 410px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:pink;
+  overflow-x: hidden;
+  padding-top: 140px;
+}
+
+
+h3{
+  padding-top:100px;
+}
